@@ -139,7 +139,8 @@ int main() {
 
 ![Alt text](image.png)
 
-![Alt text](image-1.png)
+<img width="752" height="626" alt="image" src="https://github.com/user-attachments/assets/62794dc3-e0b3-46ce-81f6-69633b4c5cb2" />
+
 
 
 
